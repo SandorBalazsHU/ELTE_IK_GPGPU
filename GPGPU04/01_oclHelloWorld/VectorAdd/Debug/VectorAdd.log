@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+T:\OCLPack\include\CL\cl.hpp(1140,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  VectorAdd.vcxproj -> C:\Users\sabuaai\Desktop\GPGPU\GPGPU04\01_oclHelloWorld\VectorAdd\..\bin\Debug\VectorAdd.exe
+  C:vector_add_kernel.cl
+  1 File(s) copied
